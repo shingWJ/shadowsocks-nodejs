@@ -20,7 +20,7 @@
         "ssserver": "./bin/ssserver"
     },
     "scripts": {
-        "start": "node bin/ssserver  node bin/sslocal"
+        "start": "npm start bin/ssserver && npm start bin/sslocal"
     },
     "homepage": "https://github.com/clowwindy/shadowsocks-nodejs",
     "bugs": "https://github.com/clowwindy/shadowsocks-nodejs/issues",
