@@ -1,8 +1,8 @@
 {
-    "server":"0.0.0.0",
+    "server":"shadowtest11.herokuapp.com",
     "server_port":8389,
-    "local_address":"0.0.0.0",
-    "local_port":8888,
+    "local_address":"127.0.0.1",
+    "local_port":1081,
     "password":"20151005",
     "timeout":600,
     "method":"aes-256-cfb"

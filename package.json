@@ -22,7 +22,7 @@
     "scripts": {
         "server1": "node bin/ssserver &",
         "server2": "node bin/sslocal &",
-        "start": "npm run server1 && npm run server2"
+        "start": "npm run server1"
     },
     "homepage": "https://github.com/clowwindy/shadowsocks-nodejs",
     "bugs": "https://github.com/clowwindy/shadowsocks-nodejs/issues",
